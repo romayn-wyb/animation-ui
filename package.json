@@ -7,6 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "gulp -f build/gulpfile.ts"
   },
+  "publishConfig": {
+    "registry": "https://github.com/romayn-wyb/animation-ui"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
